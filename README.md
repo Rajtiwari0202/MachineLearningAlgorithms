@@ -23,7 +23,7 @@ For every algorithm, the focus is on:
 ### Supervised Learning
 
 * [x] Linear Regression
-* [ ] Multiple Linear Regression
+* [x] Multiple Linear Regression
 * [ ] Logistic Regression
 * [ ] K-Nearest Neighbors (KNN)
 * [ ] Naive Bayes
@@ -98,6 +98,29 @@ Implemented:
 
 * Gradient Descent Demo
 * Linear Regression Class
+* Prediction on Unseen Data
+
+---
+
+### Multiple Linear Regression
+
+Concepts Covered:
+
+* Multiple Input Features
+* Weights and Bias
+* Prediction Function
+* Error Calculation
+* Mean Squared Error (MSE)
+* Cost Function
+* Partial Derivatives
+* Gradient Descent
+* Multiple Linear Regression From Scratch
+* Object-Oriented Implementation
+
+Implemented:
+
+* Gradient Descent Demo
+* Multiple Linear Regression Class
 * Prediction on Unseen Data
 
 ---
