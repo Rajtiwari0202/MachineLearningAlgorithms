@@ -24,7 +24,7 @@ For every algorithm, the focus is on:
 
 * [x] Linear Regression
 * [x] Multiple Linear Regression
-* [ ] Logistic Regression
+* [x] Logistic Regression
 * [ ] K-Nearest Neighbors (KNN)
 * [ ] Naive Bayes
 * [ ] Decision Trees
@@ -122,6 +122,31 @@ Implemented:
 * Gradient Descent Demo
 * Multiple Linear Regression Class
 * Prediction on Unseen Data
+
+---
+
+### Logistic Regression
+
+Concepts Covered:
+
+* Binary Classification
+* Linear Function
+* Sigmoid Function
+* Probability Prediction
+* Error Calculation
+* Binary Cross-Entropy Loss
+* Cost Function
+* Gradients
+* Gradient Descent
+* Logistic Regression From Scratch
+* Object-Oriented Implementation
+
+Implemented:
+
+* Gradient Descent Demo
+* Logistic Regression Class
+* Probability Prediction
+* Class Prediction on Unseen Data
 
 ---
 
