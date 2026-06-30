@@ -25,7 +25,7 @@ For every algorithm, the focus is on:
 * [x] Linear Regression
 * [x] Multiple Linear Regression
 * [x] Logistic Regression
-* [ ] K-Nearest Neighbors (KNN)
+* [x] K-Nearest Neighbors (KNN)
 * [ ] Naive Bayes
 * [ ] Decision Trees
 * [ ] Random Forest
@@ -147,6 +147,29 @@ Implemented:
 * Logistic Regression Class
 * Probability Prediction
 * Class Prediction on Unseen Data
+
+---
+
+### K-Nearest Neighbors (KNN)
+
+Concepts Covered:
+
+* Instance-Based Learning
+* Lazy Learning
+* Distance Calculation
+* Euclidean Distance
+* Choosing K
+* Finding Nearest Neighbors
+* Majority Voting
+* Classification
+* KNN From Scratch
+
+Implemented:
+
+* Distance Calculation Demo
+* KNN Classification Class
+* Single Prediction
+* Multiple Predictions on Unseen Data
 
 ---
 
